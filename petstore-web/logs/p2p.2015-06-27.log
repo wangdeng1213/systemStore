@@ -1,0 +1,2496 @@
+10:52:53.786 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6673893 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2192303 nanoseconds spent preparing 11 JDBC statements;
+    106798727 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13599 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:52:54.214 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:52:54.225 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7443920 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1222135 nanoseconds spent preparing 11 JDBC statements;
+    92439719 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7697 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:52:54.470 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6067830 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1672707 nanoseconds spent preparing 11 JDBC statements;
+    92228799 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9751 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:52:55.155 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8560341 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2572057 nanoseconds spent preparing 11 JDBC statements;
+    99297074 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15138 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:52:55.185 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:52:55.390 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10498618 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1909537 nanoseconds spent preparing 11 JDBC statements;
+    94030573 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13087 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:52:55.625 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6720849 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2473010 nanoseconds spent preparing 11 JDBC statements;
+    94358491 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15140 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:00.692 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9906665 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    323559 nanoseconds spent preparing 3 JDBC statements;
+    19727116 nanoseconds spent executing 3 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    5132 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:01.153 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10245620 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3697969 nanoseconds spent preparing 20 JDBC statements;
+    189665599 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    31817 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:01.756 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9545387 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1397130 nanoseconds spent preparing 11 JDBC statements;
+    106061544 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11034 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:01.997 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8620125 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1701958 nanoseconds spent preparing 11 JDBC statements;
+    102734859 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7954 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:36.601 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6634123 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2203591 nanoseconds spent preparing 13 JDBC statements;
+    112833198 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    22323 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:37.142 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6936641 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1785607 nanoseconds spent preparing 11 JDBC statements;
+    102030776 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13085 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:37.374 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7135242 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1804338 nanoseconds spent preparing 11 JDBC statements;
+    98669967 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11546 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:41.313 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7491388 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4630415 nanoseconds spent preparing 13 JDBC statements;
+    111124311 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    35410 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:41.818 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    11230411 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1389431 nanoseconds spent preparing 11 JDBC statements;
+    96091244 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8212 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:41.876 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    11532161 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1742245 nanoseconds spent preparing 11 JDBC statements;
+    112446259 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8724 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:53:42.165 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8053319 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2221551 nanoseconds spent preparing 11 JDBC statements;
+    114943901 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13600 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:35.709 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9846623 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3498599 nanoseconds spent preparing 13 JDBC statements;
+    142996068 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    21554 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:36.223 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6514808 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2100697 nanoseconds spent preparing 11 JDBC statements;
+    100605165 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    14370 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:36.259 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9440699 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1950847 nanoseconds spent preparing 11 JDBC statements;
+    117317354 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    18731 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:36.576 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    13259008 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2065031 nanoseconds spent preparing 11 JDBC statements;
+    120895241 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11803 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:39.977 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9620311 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3688986 nanoseconds spent preparing 15 JDBC statements;
+    156296899 nanoseconds spent executing 15 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    39772 nanoseconds spent executing 7 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:40.516 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7396707 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1855911 nanoseconds spent preparing 11 JDBC statements;
+    94590964 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    14113 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:40.548 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8289895 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1881573 nanoseconds spent preparing 11 JDBC statements;
+    120530369 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10008 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:40.844 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9834564 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2520224 nanoseconds spent preparing 11 JDBC statements;
+    114730163 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    18217 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:42.575 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9578744 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4184975 nanoseconds spent preparing 14 JDBC statements;
+    164420781 nanoseconds spent executing 14 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    30020 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:43.088 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6026519 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1581875 nanoseconds spent preparing 11 JDBC statements;
+    99295021 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10521 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:43.126 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8951896 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1475134 nanoseconds spent preparing 11 JDBC statements;
+    114384794 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11033 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:43.463 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    17891219 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2312385 nanoseconds spent preparing 11 JDBC statements;
+    132998570 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12571 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:56.839 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10436523 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3132702 nanoseconds spent preparing 13 JDBC statements;
+    154211338 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    22580 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:57.380 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10806526 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1796896 nanoseconds spent preparing 11 JDBC statements;
+    110414843 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13856 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:54:57.671 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8302468 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2766291 nanoseconds spent preparing 11 JDBC statements;
+    112784188 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15653 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:04.115 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9728849 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2741400 nanoseconds spent preparing 13 JDBC statements;
+    139523385 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    23350 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:04.673 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    15102861 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1704523 nanoseconds spent preparing 11 JDBC statements;
+    119856052 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8210 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:04.953 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8461810 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2760132 nanoseconds spent preparing 11 JDBC statements;
+    114581598 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    14112 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:13.186 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9196169 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2491486 nanoseconds spent preparing 13 JDBC statements;
+    143232131 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    28225 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:13.737 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    12530037 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1851809 nanoseconds spent preparing 11 JDBC statements;
+    118639563 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8981 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:14.022 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8595750 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2681106 nanoseconds spent preparing 11 JDBC statements;
+    115668766 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13599 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:20.998 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    11955533 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3907086 nanoseconds spent preparing 13 JDBC statements;
+    137893530 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    34383 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:21.583 [qtp27492268-19] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8242425 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1736853 nanoseconds spent preparing 12 JDBC statements;
+    139400478 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12831 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:21.794 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7604031 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1688357 nanoseconds spent preparing 12 JDBC statements;
+    97308502 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12315 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:21.800 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6532770 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1580847 nanoseconds spent preparing 12 JDBC statements;
+    106863130 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11804 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:21.877 [qtp27492268-39] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9361156 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1372495 nanoseconds spent preparing 11 JDBC statements;
+    125348350 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7698 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:21.881 [qtp27492268-37] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    89441469 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1287309 nanoseconds spent preparing 12 JDBC statements;
+    101218673 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12573 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:21.930 [qtp27492268-38] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    105998165 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1478726 nanoseconds spent preparing 12 JDBC statements;
+    114195175 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13343 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:21.948 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    102961172 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1462815 nanoseconds spent preparing 12 JDBC statements;
+    125108700 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8980 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:22.053 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    15762552 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1423816 nanoseconds spent preparing 12 JDBC statements;
+    99283475 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8723 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:22.074 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7221969 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1450757 nanoseconds spent preparing 12 JDBC statements;
+    103156180 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    14626 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:22.122 [qtp27492268-37] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7266103 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1144648 nanoseconds spent preparing 12 JDBC statements;
+    103566979 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    5645 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:22.181 [qtp27492268-39] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8667595 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1609073 nanoseconds spent preparing 12 JDBC statements;
+    134431622 nanoseconds spent executing 12 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6928 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:22.472 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8804357 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2178959 nanoseconds spent preparing 11 JDBC statements;
+    116309986 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10264 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:26.834 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10432161 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3822158 nanoseconds spent preparing 13 JDBC statements;
+    139677594 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    31047 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:27.395 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9814550 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2229762 nanoseconds spent preparing 11 JDBC statements;
+    113547287 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10264 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:27.670 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8173917 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1547749 nanoseconds spent preparing 11 JDBC statements;
+    111745001 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11032 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:37.419 [qtp27492268-38] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9715507 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4020244 nanoseconds spent preparing 13 JDBC statements;
+    141062150 nanoseconds spent executing 13 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    33099 nanoseconds spent executing 5 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:37.986 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    11089800 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1708374 nanoseconds spent preparing 11 JDBC statements;
+    117407932 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    39001 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+10:55:38.277 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10940721 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3078560 nanoseconds spent preparing 11 JDBC statements;
+    112766483 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15652 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:34.415 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9411961 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3073429 nanoseconds spent preparing 11 JDBC statements;
+    116637392 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15139 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:34.661 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:34.924 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10426260 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2230533 nanoseconds spent preparing 11 JDBC statements;
+    114743251 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15908 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:35.261 [qtp27492268-37] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    11047206 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3141686 nanoseconds spent preparing 11 JDBC statements;
+    136738106 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    14883 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:35.596 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9124837 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2568716 nanoseconds spent preparing 11 JDBC statements;
+    115186123 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15652 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:35.641 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:35.829 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7346929 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2214368 nanoseconds spent preparing 11 JDBC statements;
+    93166379 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13856 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:36.051 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6238205 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2111474 nanoseconds spent preparing 11 JDBC statements;
+    88919309 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15139 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:41.524 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9830202 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    281991 nanoseconds spent preparing 3 JDBC statements;
+    21224572 nanoseconds spent executing 3 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    4619 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:41.991 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6542776 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4424886 nanoseconds spent preparing 20 JDBC statements;
+    194526430 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    33614 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:42.522 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7053903 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1138229 nanoseconds spent preparing 11 JDBC statements;
+    108154800 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6159 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:42.762 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6133003 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2319570 nanoseconds spent preparing 11 JDBC statements;
+    99841556 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    29508 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:45.776 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6902258 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3809070 nanoseconds spent preparing 14 JDBC statements;
+    114254447 nanoseconds spent executing 14 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    32846 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:46.261 [qtp27492268-37] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8480284 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1292442 nanoseconds spent preparing 11 JDBC statements;
+    97058585 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7955 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:46.267 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7502421 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1394308 nanoseconds spent preparing 11 JDBC statements;
+    95840812 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13599 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:46.273 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7148328 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1246770 nanoseconds spent preparing 11 JDBC statements;
+    100292382 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8211 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:46.304 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7360014 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1290902 nanoseconds spent preparing 11 JDBC statements;
+    115502498 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8724 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:46.331 [qtp27492268-42] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9292647 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1633707 nanoseconds spent preparing 11 JDBC statements;
+    104237447 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8980 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:46.533 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6242054 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1406624 nanoseconds spent preparing 11 JDBC statements;
+    105379529 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8210 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:25:46.773 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6497873 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2683927 nanoseconds spent preparing 11 JDBC statements;
+    94731830 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    16165 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:30.496 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9680354 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3387752 nanoseconds spent preparing 18 JDBC statements;
+    145333084 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    9946950 nanoseconds spent executing 1 flushes (flushing a total of 169 entities and 127 collections);
+    24633 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:30.774 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7057495 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1350688 nanoseconds spent preparing 11 JDBC statements;
+    90708764 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8724 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:31.010 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7503448 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2545880 nanoseconds spent preparing 11 JDBC statements;
+    99603699 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12060 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:33.233 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6983598 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4932678 nanoseconds spent preparing 20 JDBC statements;
+    184532015 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    52087 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:33.557 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7948374 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1211618 nanoseconds spent preparing 11 JDBC statements;
+    92430224 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    24376 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:33.822 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6496077 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2713433 nanoseconds spent preparing 11 JDBC statements;
+    107225945 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11803 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:37.037 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8974219 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3866036 nanoseconds spent preparing 18 JDBC statements;
+    177019583 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    38232 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:37.575 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6356492 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1977023 nanoseconds spent preparing 11 JDBC statements;
+    100309576 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13085 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:37.809 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8007390 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1904664 nanoseconds spent preparing 11 JDBC statements;
+    92643192 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11291 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:41.638 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10176084 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2595662 nanoseconds spent preparing 16 JDBC statements;
+    141868100 nanoseconds spent executing 16 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    37607046 nanoseconds spent executing 1 flushes (flushing a total of 166 entities and 127 collections);
+    22837 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:41.899 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8585229 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1520036 nanoseconds spent preparing 11 JDBC statements;
+    89526913 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11289 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:42.134 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8004054 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2143292 nanoseconds spent preparing 11 JDBC statements;
+    94226095 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    20014 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:44.341 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6675434 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4226033 nanoseconds spent preparing 20 JDBC statements;
+    178414147 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    45157 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:44.622 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7560667 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1687333 nanoseconds spent preparing 11 JDBC statements;
+    92409697 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6927 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:44.834 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6411403 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1799462 nanoseconds spent preparing 11 JDBC statements;
+    91201931 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9494 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:47.008 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    11532930 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3362093 nanoseconds spent preparing 16 JDBC statements;
+    151934363 nanoseconds spent executing 16 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    21131174 nanoseconds spent executing 1 flushes (flushing a total of 166 entities and 127 collections);
+    24377 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:47.515 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8232162 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1553907 nanoseconds spent preparing 11 JDBC statements;
+    90232790 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12829 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:47.776 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7923998 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2464546 nanoseconds spent preparing 11 JDBC statements;
+    98916038 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12830 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:49.962 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6919707 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5429434 nanoseconds spent preparing 20 JDBC statements;
+    179414847 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    49523 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:50.230 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7838554 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1616513 nanoseconds spent preparing 11 JDBC statements;
+    97397798 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9238 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:50.461 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6834263 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2692652 nanoseconds spent preparing 11 JDBC statements;
+    94710023 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13086 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:56.514 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7315881 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4027172 nanoseconds spent preparing 19 JDBC statements;
+    181465000 nanoseconds spent executing 19 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    12733256 nanoseconds spent executing 1 flushes (flushing a total of 165 entities and 127 collections);
+    36692 nanoseconds spent executing 8 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:57.022 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7663816 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1372756 nanoseconds spent preparing 11 JDBC statements;
+    94882451 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6671 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:28:57.247 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6512499 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1331190 nanoseconds spent preparing 11 JDBC statements;
+    93942562 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9750 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:29:00.358 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7521409 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4625797 nanoseconds spent preparing 20 JDBC statements;
+    184065279 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    45928 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:29:00.647 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7336921 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    965288 nanoseconds spent preparing 11 JDBC statements;
+    87125494 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6158 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:29:00.872 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    5616745 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2135083 nanoseconds spent preparing 11 JDBC statements;
+    93564092 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    17961 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:40:20.254 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6664400 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2799651 nanoseconds spent preparing 18 JDBC statements;
+    139710184 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    36949 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:40:20.794 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7620966 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1929040 nanoseconds spent preparing 11 JDBC statements;
+    94558633 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10265 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+14:40:21.028 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6175597 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2457101 nanoseconds spent preparing 11 JDBC statements;
+    89076342 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    14625 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:16.956 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7855232 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2456588 nanoseconds spent preparing 11 JDBC statements;
+    97385995 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    18731 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:17.185 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6387027 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2636716 nanoseconds spent preparing 11 JDBC statements;
+    90934564 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    43106 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:17.221 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:17.417 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9341143 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1742757 nanoseconds spent preparing 11 JDBC statements;
+    95999128 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    14625 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:17.649 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7005408 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2444790 nanoseconds spent preparing 11 JDBC statements;
+    87249680 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15139 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:23.184 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6498900 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    499067 nanoseconds spent preparing 3 JDBC statements;
+    21980487 nanoseconds spent executing 3 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7185 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:23.693 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6558686 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5408138 nanoseconds spent preparing 21 JDBC statements;
+    180899471 nanoseconds spent executing 21 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    3969440 nanoseconds spent executing 1 flushes (flushing a total of 166 entities and 127 collections);
+    7266617 nanoseconds spent executing 10 partial-flushes (flushing a total of 166 entities and 166 collections)
+}
+15:48:24.025 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8340443 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1303218 nanoseconds spent preparing 11 JDBC statements;
+    108312607 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6415 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:24.247 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6582548 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1780215 nanoseconds spent preparing 11 JDBC statements;
+    90021873 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13855 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:27.668 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9221828 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5225700 nanoseconds spent preparing 19 JDBC statements;
+    169297776 nanoseconds spent executing 19 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    4778467 nanoseconds spent executing 1 flushes (flushing a total of 165 entities and 127 collections);
+    67739 nanoseconds spent executing 8 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:28.176 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6457589 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1491042 nanoseconds spent preparing 11 JDBC statements;
+    106511859 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9237 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:28.409 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6506085 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1988569 nanoseconds spent preparing 11 JDBC statements;
+    95832602 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15909 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:30.561 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6828361 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5153343 nanoseconds spent preparing 19 JDBC statements;
+    180689070 nanoseconds spent executing 19 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    5997011 nanoseconds spent executing 1 flushes (flushing a total of 165 entities and 127 collections);
+    46956 nanoseconds spent executing 8 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:31.048 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10323110 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1000956 nanoseconds spent preparing 11 JDBC statements;
+    94834213 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7442 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+15:48:31.261 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10075501 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1430229 nanoseconds spent preparing 11 JDBC statements;
+    87420312 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11034 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:26.896 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7221969 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3704640 nanoseconds spent preparing 11 JDBC statements;
+    94812915 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    21809 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:27.124 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6323136 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1901070 nanoseconds spent preparing 11 JDBC statements;
+    93485319 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15138 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:27.150 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:29.051 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6652084 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2436831 nanoseconds spent preparing 11 JDBC statements;
+    1776715011 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11548 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:29.298 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7676646 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2317519 nanoseconds spent preparing 11 JDBC statements;
+    98581956 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    19757 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:33.548 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7776459 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    477000 nanoseconds spent preparing 3 JDBC statements;
+    19339925 nanoseconds spent executing 3 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6672 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:33.984 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7100345 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4206018 nanoseconds spent preparing 20 JDBC statements;
+    172479746 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    32588 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:34.280 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9795819 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5430463 nanoseconds spent preparing 11 JDBC statements;
+    98215548 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8469 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:34.493 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    5855630 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1636784 nanoseconds spent preparing 11 JDBC statements;
+    89993395 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9237 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:37.399 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7982757 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2959248 nanoseconds spent preparing 14 JDBC statements;
+    124357664 nanoseconds spent executing 14 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    33357 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:37.934 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6681079 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1770466 nanoseconds spent preparing 11 JDBC statements;
+    100440436 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9494 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:39.670 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    5754277 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1642688 nanoseconds spent preparing 11 JDBC statements;
+    1579215478 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10008 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:29:39.933 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    11229641 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2811965 nanoseconds spent preparing 11 JDBC statements;
+    105861918 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11546 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:18.712 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6361881 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3185049 nanoseconds spent preparing 18 JDBC statements;
+    137741116 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    2178446 nanoseconds spent executing 1 flushes (flushing a total of 169 entities and 127 collections);
+    25402 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:19.016 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    11504962 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1781500 nanoseconds spent preparing 11 JDBC statements;
+    89787351 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11034 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:19.243 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7167829 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2072986 nanoseconds spent preparing 11 JDBC statements;
+    97720588 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10520 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:21.514 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10036243 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5704753 nanoseconds spent preparing 20 JDBC statements;
+    176356556 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    59786 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:21.842 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8002258 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1335035 nanoseconds spent preparing 11 JDBC statements;
+    99242676 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    5902 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:22.083 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7399016 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2227968 nanoseconds spent preparing 11 JDBC statements;
+    100319837 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10264 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:24.736 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7830856 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4272984 nanoseconds spent preparing 18 JDBC statements;
+    1673737929 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    54652 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:25.254 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9431975 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2406810 nanoseconds spent preparing 11 JDBC statements;
+    112635108 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12060 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:25.473 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7173987 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2251058 nanoseconds spent preparing 11 JDBC statements;
+    86835287 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12829 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:26.445 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10991013 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4018963 nanoseconds spent preparing 16 JDBC statements;
+    171693810 nanoseconds spent executing 16 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    25547081 nanoseconds spent executing 1 flushes (flushing a total of 166 entities and 127 collections);
+    33359 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:26.786 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6117608 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1440751 nanoseconds spent preparing 11 JDBC statements;
+    130371091 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7955 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:27.037 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8377136 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2554605 nanoseconds spent preparing 11 JDBC statements;
+    88785113 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    16164 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:30.346 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8757144 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5200305 nanoseconds spent preparing 20 JDBC statements;
+    1066574468 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    49524 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:30.643 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8738414 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1209308 nanoseconds spent preparing 11 JDBC statements;
+    92151565 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10007 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:31.543 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10499644 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1979588 nanoseconds spent preparing 11 JDBC statements;
+    102160614 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11802 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:32.420 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6999249 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3367738 nanoseconds spent preparing 16 JDBC statements;
+    130079093 nanoseconds spent executing 16 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    26635791 nanoseconds spent executing 1 flushes (flushing a total of 166 entities and 127 collections);
+    32074 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:32.877 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7567083 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1161837 nanoseconds spent preparing 11 JDBC statements;
+    89143312 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12058 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:33.096 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6082455 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1826917 nanoseconds spent preparing 11 JDBC statements;
+    86099903 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10776 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:35.554 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6401396 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4571147 nanoseconds spent preparing 20 JDBC statements;
+    426393824 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    48497 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:35.845 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9853808 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1109751 nanoseconds spent preparing 11 JDBC statements;
+    92481285 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7698 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:36.280 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6257962 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2046302 nanoseconds spent preparing 11 JDBC statements;
+    97212282 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11547 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:38.441 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8555978 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5352458 nanoseconds spent preparing 19 JDBC statements;
+    161918520 nanoseconds spent executing 19 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    7969158 nanoseconds spent executing 1 flushes (flushing a total of 165 entities and 127 collections);
+    50549 nanoseconds spent executing 8 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:38.724 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6687236 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1033540 nanoseconds spent preparing 11 JDBC statements;
+    96809181 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7697 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:38.950 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8276295 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1642174 nanoseconds spent preparing 11 JDBC statements;
+    86125050 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13086 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:42.795 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9045038 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4649401 nanoseconds spent preparing 19 JDBC statements;
+    170541979 nanoseconds spent executing 19 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    5219801 nanoseconds spent executing 1 flushes (flushing a total of 165 entities and 127 collections);
+    47468 nanoseconds spent executing 8 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:43.080 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9180004 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1252670 nanoseconds spent preparing 11 JDBC statements;
+    94982263 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9751 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:43.335 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6658242 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2530228 nanoseconds spent preparing 11 JDBC statements;
+    106463620 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12060 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:47.027 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7786723 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4979633 nanoseconds spent preparing 20 JDBC statements;
+    1669177053 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    43364 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:47.274 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10116812 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1132587 nanoseconds spent preparing 11 JDBC statements;
+    89737318 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7954 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:32:47.488 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6228454 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1692464 nanoseconds spent preparing 11 JDBC statements;
+    85017864 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12573 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:33:12.070 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8412801 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2211288 nanoseconds spent preparing 11 JDBC statements;
+    89955929 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11034 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:33:21.855 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6946392 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3579681 nanoseconds spent preparing 18 JDBC statements;
+    164895216 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    40288 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:33:22.362 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7557075 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1400466 nanoseconds spent preparing 11 JDBC statements;
+    100211300 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11547 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:33:22.601 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7146788 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2598737 nanoseconds spent preparing 11 JDBC statements;
+    99671693 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15908 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:40:16.708 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7714621 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4324048 nanoseconds spent preparing 18 JDBC statements;
+    144678011 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    51831 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:40:16.986 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9707552 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1455377 nanoseconds spent preparing 11 JDBC statements;
+    92299620 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12061 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:40:17.207 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7794933 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1756867 nanoseconds spent preparing 11 JDBC statements;
+    91037969 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11290 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:40:21.212 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6741120 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2159457 nanoseconds spent preparing 14 JDBC statements;
+    131211680 nanoseconds spent executing 14 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    26686 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:40:21.521 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6257706 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1132331 nanoseconds spent preparing 11 JDBC statements;
+    133249513 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7697 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:40:21.791 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    10321570 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1283717 nanoseconds spent preparing 11 JDBC statements;
+    115888151 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    7955 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:40:22.025 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6082199 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2196408 nanoseconds spent preparing 11 JDBC statements;
+    100203089 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10520 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:34.154 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8627566 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3750311 nanoseconds spent preparing 18 JDBC statements;
+    160909350 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    3233542 nanoseconds spent executing 1 flushes (flushing a total of 169 entities and 127 collections);
+    36178 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:34.514 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8093860 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2179472 nanoseconds spent preparing 11 JDBC statements;
+    100074539 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    16165 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:34.761 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7731043 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1939305 nanoseconds spent preparing 11 JDBC statements;
+    95714057 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    30278 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:36.996 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6476833 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5179002 nanoseconds spent preparing 20 JDBC statements;
+    196451880 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    46700 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:37.312 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7005407 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1059716 nanoseconds spent preparing 11 JDBC statements;
+    99655015 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    5645 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:37.533 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    5954160 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1611898 nanoseconds spent preparing 11 JDBC statements;
+    94608154 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11033 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:38.755 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6176367 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4318916 nanoseconds spent preparing 18 JDBC statements;
+    148271036 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    51061 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:39.246 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6491972 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1719660 nanoseconds spent preparing 11 JDBC statements;
+    90935076 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8980 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:39.488 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8845412 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2298529 nanoseconds spent preparing 11 JDBC statements;
+    104264134 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15139 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:40.621 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7727708 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3082666 nanoseconds spent preparing 16 JDBC statements;
+    135498519 nanoseconds spent executing 16 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    24899705 nanoseconds spent executing 1 flushes (flushing a total of 166 entities and 127 collections);
+    25915 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:40.911 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6678513 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1137204 nanoseconds spent preparing 11 JDBC statements;
+    96074307 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    8723 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:41.160 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6665170 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2385771 nanoseconds spent preparing 11 JDBC statements;
+    95503909 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13343 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:43.350 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7426471 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    4238603 nanoseconds spent preparing 20 JDBC statements;
+    188312600 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    44387 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:43.605 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7299202 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1462559 nanoseconds spent preparing 11 JDBC statements;
+    97517113 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    11032 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:43.832 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6564587 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2157405 nanoseconds spent preparing 11 JDBC statements;
+    89122273 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9751 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:45.647 [qtp27492268-20] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6919963 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2994143 nanoseconds spent preparing 16 JDBC statements;
+    142754362 nanoseconds spent executing 16 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    24025505 nanoseconds spent executing 1 flushes (flushing a total of 166 entities and 127 collections);
+    26428 nanoseconds spent executing 6 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:46.170 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7915531 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1020456 nanoseconds spent preparing 11 JDBC statements;
+    83783927 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9236 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:46.413 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6042427 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2200768 nanoseconds spent preparing 11 JDBC statements;
+    101035723 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    10006 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:48.636 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6671071 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5477160 nanoseconds spent preparing 20 JDBC statements;
+    193811573 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    55422 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:48.890 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9306759 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1097435 nanoseconds spent preparing 11 JDBC statements;
+    86761906 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6159 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:49.125 [qtp27492268-18] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7760294 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2454794 nanoseconds spent preparing 11 JDBC statements;
+    90304378 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    14882 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:51.241 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6564843 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2590271 nanoseconds spent preparing 19 JDBC statements;
+    174891430 nanoseconds spent executing 19 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    2474550 nanoseconds spent executing 1 flushes (flushing a total of 165 entities and 127 collections);
+    25146 nanoseconds spent executing 8 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:51.514 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6284391 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1284229 nanoseconds spent preparing 11 JDBC statements;
+    95530339 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    9237 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:51.757 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    6513269 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2183575 nanoseconds spent preparing 11 JDBC statements;
+    103326810 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    13342 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:53.882 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    15951402 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    5190549 nanoseconds spent preparing 20 JDBC statements;
+    192036743 nanoseconds spent executing 20 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    53369 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:54.152 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7054160 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1342733 nanoseconds spent preparing 11 JDBC statements;
+    92084853 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    6671 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:54.371 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    5678583 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2220524 nanoseconds spent preparing 11 JDBC statements;
+    90737503 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    12315 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:56.228 [qtp27492268-17] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    8562393 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    3047003 nanoseconds spent preparing 18 JDBC statements;
+    152287431 nanoseconds spent executing 18 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    46442 nanoseconds spent executing 9 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:56.755 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    9713197 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    1635758 nanoseconds spent preparing 11 JDBC statements;
+    98358982 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    50034 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+16:42:56.988 [qtp27492268-43] INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    7635078 nanoseconds spent acquiring 1 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    2605925 nanoseconds spent preparing 11 JDBC statements;
+    98450584 nanoseconds spent executing 11 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    15395 nanoseconds spent executing 3 partial-flushes (flushing a total of 0 entities and 0 collections)
+}

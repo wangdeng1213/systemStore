@@ -1,0 +1,131 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 32756 bytes for ChunkPool::allocate
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (allocation.cpp:211), pid=7224, tid=3448
+#
+# JRE version: 6.0_39-b04
+# Java VM: Java HotSpot(TM) Client VM (20.14-b01 mixed mode, sharing windows-x86 )
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x01a3c800):  JavaThread "C1 CompilerThread0" daemon [_thread_in_native, id=3448, stack(0x03d80000,0x03dd0000)]
+
+Stack: [0x03d80000,0x03dd0000],  sp=0x03dcf230,  free space=316k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+
+[error occurred during error reporting (printing native stack), id 0xc0000005]
+
+
+Current CompileTask:
+C1:   4592 935  !   org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(Lorg/eclipse/aether/internal/impl/DefaultDependencyCollector$Args;Ljava/util/List;Ljava/util/List;Lorg/eclipse/aether/collection/DependencySelector;Lorg/eclipse/aether/collection/DependencyManager;Lorg/eclipse/aether/collection/DependencyTraverser;)V (1370 bytes)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x01a6a400 JavaThread "Monitor Ctrl-Break" daemon [_thread_in_native, id=5068, stack(0x03fc0000,0x04010000)]
+  0x01a41400 JavaThread "Low Memory Detector" daemon [_thread_blocked, id=6696, stack(0x03dd0000,0x03e20000)]
+=>0x01a3c800 JavaThread "C1 CompilerThread0" daemon [_thread_in_native, id=3448, stack(0x03d80000,0x03dd0000)]
+  0x01a39800 JavaThread "Attach Listener" daemon [_thread_blocked, id=6956, stack(0x03d30000,0x03d80000)]
+  0x01a36800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=5352, stack(0x03ce0000,0x03d30000)]
+  0x01a2bc00 JavaThread "Finalizer" daemon [_thread_blocked, id=6348, stack(0x03c90000,0x03ce0000)]
+  0x01a2a800 JavaThread "Reference Handler" daemon [_thread_blocked, id=5684, stack(0x03c40000,0x03c90000)]
+  0x00ca9c00 JavaThread "main" [_thread_in_native, id=6988, stack(0x00360000,0x003b0000)]
+
+Other Threads:
+  0x019ee400 VMThread [stack: 0x03bf0000,0x03c40000] [id=6732]
+  0x01a69800 WatcherThread [stack: 0x03e20000,0x03e70000] [id=6976]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap
+ def new generation   total 4928K, used 2721K [0x23770000, 0x23cc0000, 0x28cc0000)
+  eden space 4416K,  56% used [0x23770000, 0x239e12c8, 0x23bc0000)
+  from space 512K,  43% used [0x23bc0000, 0x23bf7280, 0x23c40000)
+  to   space 512K,   0% used [0x23c40000, 0x23c40000, 0x23cc0000)
+ tenured generation   total 10944K, used 6304K [0x28cc0000, 0x29770000, 0x33770000)
+   the space 10944K,  57% used [0x28cc0000, 0x292e8108, 0x292e8200, 0x29770000)
+ compacting perm gen  total 12288K, used 8440K [0x33770000, 0x34370000, 0x37770000)
+   the space 12288K,  68% used [0x33770000, 0x33fae210, 0x33fae400, 0x34370000)
+    ro space 10240K,  55% used [0x37770000, 0x37cf3148, 0x37cf3200, 0x38170000)
+    rw space 12288K,  55% used [0x38170000, 0x38815f30, 0x38816000, 0x38d70000)
+
+Code Cache  [0x01ab0000, 0x01ca0000, 0x03ab0000)
+ total_blobs=1119 nmethods=971 adapters=83 free_code_cache=31550656 largest_free_block=128
+
+Dynamic libraries:
+0x00400000 - 0x00425000 	C:\Program Files\Java\jdk1.6.0_39\bin\java.exe
+0x772e0000 - 0x7741c000 	C:\Windows\SYSTEM32\ntdll.dll
+0x75d70000 - 0x75e44000 	C:\Windows\system32\kernel32.dll
+0x75440000 - 0x7548b000 	C:\Windows\system32\KERNELBASE.dll
+0x75a10000 - 0x75ab0000 	C:\Windows\system32\ADVAPI32.dll
+0x770e0000 - 0x7718c000 	C:\Windows\system32\msvcrt.dll
+0x77460000 - 0x77479000 	C:\Windows\SYSTEM32\sechost.dll
+0x75730000 - 0x757d1000 	C:\Windows\system32\RPCRT4.dll
+0x7c340000 - 0x7c396000 	C:\Program Files\Java\jdk1.6.0_39\jre\bin\msvcr71.dll
+0x6d8c0000 - 0x6db70000 	C:\Program Files\Java\jdk1.6.0_39\jre\bin\client\jvm.dll
+0x77190000 - 0x77259000 	C:\Windows\system32\USER32.dll
+0x757e0000 - 0x7582e000 	C:\Windows\system32\GDI32.dll
+0x77450000 - 0x7745a000 	C:\Windows\system32\LPK.dll
+0x75ab0000 - 0x75b4d000 	C:\Windows\system32\USP10.dll
+0x753c0000 - 0x753f2000 	C:\Windows\system32\WINMM.dll
+0x75710000 - 0x7572f000 	C:\Windows\system32\IMM32.DLL
+0x754c0000 - 0x7558c000 	C:\Windows\system32\MSCTF.dll
+0x75020000 - 0x7506c000 	C:\Windows\system32\apphelp.dll
+0x6d870000 - 0x6d87c000 	C:\Program Files\Java\jdk1.6.0_39\jre\bin\verify.dll
+0x6d3d0000 - 0x6d3ef000 	C:\Program Files\Java\jdk1.6.0_39\jre\bin\java.dll
+0x6d8b0000 - 0x6d8bf000 	C:\Program Files\Java\jdk1.6.0_39\jre\bin\zip.dll
+0x10000000 - 0x10007000 	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 14.0\bin\breakgen.dll
+0x6d6b0000 - 0x6d6c3000 	C:\Program Files\Java\jdk1.6.0_39\jre\bin\net.dll
+0x76130000 - 0x76165000 	C:\Windows\system32\WS2_32.dll
+0x77430000 - 0x77436000 	C:\Windows\system32\NSI.dll
+0x74b60000 - 0x74b9c000 	C:\Windows\system32\mswsock.dll
+0x74b50000 - 0x74b56000 	C:\Windows\System32\wship6.dll
+0x746a0000 - 0x746a5000 	C:\Windows\System32\wshtcpip.dll
+0x6d6d0000 - 0x6d6d9000 	C:\Program Files\Java\jdk1.6.0_39\jre\bin\nio.dll
+0x77420000 - 0x77425000 	C:\Windows\system32\PSAPI.DLL
+
+VM Arguments:
+jvm_args: -Dmaven.home=D:\wmy\maven -Dclassworlds.conf=D:\wmy\maven\bin\m2.conf -Didea.launcher.port=7539 -Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 14.0\bin -Dfile.encoding=UTF-8 
+java_command: com.intellij.rt.execution.application.AppMain org.codehaus.classworlds.Launcher -Didea.version=14.0 -s D:\wmy\maven\conf\settings.xml -Dmaven.repo.local=D:\mavenRepository jetty:run
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk1.6.0_39
+CLASSPATH=.;C:\Program Files\Java\jdk1.6.0_39\lib\dt.jar;C:\Program Files\Java\jdk1.6.0_39\lib\tools.jar;
+PATH=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.6.0_39\bin;C:\Program Files\Java\jdk1.6.0_39\jre\bin;D:\wmy\maven\bin
+USERNAME=Administrator
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=x86 Family 6 Model 58 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 Build 7601 Service Pack 1
+
+CPU:total 4 (4 cores per cpu, 1 threads per core) family 6 model 58 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt
+
+Memory: 4k page, physical 3642836k(849604k free), swap 5689084k(3884k free)
+
+vm_info: Java HotSpot(TM) Client VM (20.14-b01) for windows-x86 JRE (1.6.0_39-b04), built on Jan 15 2013 14:00:47 by "java_re" with MS VC++ 7.1 (VS2003)
+
+time: Mon Feb 09 17:09:00 2015
+elapsed time: 4 seconds
+

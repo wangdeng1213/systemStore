@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.0.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <bean id="applicationContextUtils" class="com.peanut.utils.ApplicationContextUtils">
+    </bean>
+
+    <bean id="methodAccessChecker" class="com.peanut.p2p.data.jpa.support.MethodAccessCheckerImpl"/>
+
+    <bean id="repositoryBeanRegister"
+          class="com.peanut.data.orm.dao.builder.beanRegister.RepositoryBeanRegister">
+        <property name="methodAccessChecker" ref="methodAccessChecker"/>
+    </bean>
+
+    <bean id="repositoryBeanFactory" class="com.peanut.ioc.beanFactory.ManagedBeanFactory">
+        <property name="packagesToScan" value="com.peanut"/>
+        <property name="beanScanner">
+            <bean class="com.peanut.ioc.scanner.BeanScanner"/>
+        </property>
+    </bean>
+
+    <bean id="entityManagerFactory"
+          class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
+        <property name="dataSource">
+            <ref bean="dataSource"/>
+        </property>
+        <property name="jpaVendorAdapter" ref="hibernateJpaVendorAdapter"/>
+        <property name="packagesToScan" value="com.peanut"/>
+        <property name="jpaDialect" ref="hibernateJpaDialect"/>
+        <property name="jpaProperties">
+            <props>
+                <prop key="hibernate.dialect">${hibernate.dialect}</prop>
+                <prop key="hibernate.hbm2ddl.auto">none</prop>
+               <!-- <prop key="hibernate.hbm2ddl.auto">${hibernate.hbm2ddl.auto}</prop>-->
+                <prop key="hibernate.show_sql">${hibernate.show_sql}</prop>
+                <prop key="hibernate.format_sql">true</prop>
+                <prop key="hibernate.query.substitutions">${hibernate.query.substitutions}</prop>
+                <prop key="hibernate.default_batch_fetch_size">${jpa.default_batch_fetch_size}</prop>
+                <prop key="hibernate.max_fetch_depth">${hibernate.max_fetch_depth}</prop>
+                <prop key="hibernate.generate_statistics">${hibernate.generate_statistics}</prop>
+                <prop key="hibernate.bytecode.use_reflection_optimizer">${hibernate.bytecode.use_reflection_optimizer}
+                </prop>
+
+                <prop key="hibernate.cache.use_second_level_cache">false</prop>
+                <prop key="hibernate.cache.use_query_cache">false</prop>
+                <!--<prop key="hibernate.cache.region.factory_class">${net.sf.ehcache.configurationResourceName}</prop>-->
+                <!--<prop key="hibernate.cache.use_structured_entries">${hibernate.cache.use_structured_entries}</prop>-->
+                <prop key="hibernate.jdbc.use_streams_for_binary">${hibernate.jdbc.use_streams_for_binary}</prop>
+                <!-- <prop key="hibernate.jdbc.use_get_generated_keys">${hibernate.jdbc.use_get_generated_keys}</prop>-->
+                 <!--<prop key="hibernate.memcache_cache_timeout">${hibernate.memcache_cache_timeout}</prop>-->
+                <!--<prop key="hibernate.memcache_clear_support">${hibernate.memcache_clear_support}</prop>-->
+
+                <!--<prop key="memcached.servers">127.0.0.1:11211</prop>-->
+            </props>
+        </property>
+    </bean>
+
+    <bean id="hibernateJpaVendorAdapter"
+          class="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter">
+        <property name="generateDdl" value="true"/>
+        <property name="database" value="MYSQL"/>
+    </bean>
+
+    <bean id="hibernateJpaDialect" class="org.springframework.orm.jpa.vendor.HibernateJpaDialect"/>
+
+    <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
+        <property name="entityManagerFactory" ref="entityManagerFactory"/>
+    </bean>
+
+    <aop:aspectj-autoproxy/>
+
+    <!-- 开启AOP监听,只对当前配置文件有效 -->
+    <aop:aspectj-autoproxy expose-proxy="true"/>
+    <!--通知spring使用cglib而不是jdk的来生成代理方法 AOP可以拦截到Controller my-->
+        <aop:aspectj-autoproxy proxy-target-class="true" />
+
+        <aop:config>
+
+                <aop:pointcut expression="execution(* *..service..*.*(..))"
+                              id="transactionPointCut"/>
+                <aop:advisor advice-ref="transactionAdvice" pointcut-ref="transactionPointCut"/>
+
+            </aop:config>
+
+            <tx:advice id="transactionAdvice" transaction-manager="transactionManager">
+                <tx:attributes>
+                    <tx:method name="do*" propagation="REQUIRED"/>
+                    <tx:method name="query*" propagation="SUPPORTS" read-only="true"/>
+                </tx:attributes>
+            </tx:advice>
+
+            <!-- 开启注解事务,只对当前配置文件有效 -->
+    <tx:annotation-driven transaction-manager="transactionManager"/>
+
+    <beans profile="production">
+        <context:property-placeholder ignore-unresolvable="true"
+                                      location="classpath*:/application.properties"/>
+
+        <!-- 数据源配置, 使用Tomcat JDBC连接池 -->
+        <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+            <!-- Connection Info -->
+            <property name="driverClassName" value="${jdbc.driverClassName}"/>
+            <property name="url" value="${jdbc.url}"/>
+            <property name="username" value="${jdbc.username}"/>
+            <property name="password" value="${jdbc.password}"/>
+
+            <!-- Connection Pooling Info -->
+            <property name="maxActive" value="${jdbc.maxActive}"/>
+            <property name="maxIdle" value="${jdbc.maxIdle}"/>
+            <property name="minIdle" value="0"/>
+            <property name="defaultAutoCommit" value="false"/>
+            <property name="removeAbandoned" value="${jdbc.removeAbandoned}"/>
+            <property name="removeAbandonedTimeout" value="${jdbc.removeAbandonedTimeout}"/>
+            <property name="logAbandoned" value="${jdbc.logAbandoned}"/>
+            <property name="testOnBorrow" value="${jdbc.testOnBorrow}"/>
+            <property name="testOnReturn" value="${jdbc.testOnReturn}"/>
+            <property name="testWhileIdle" value="${jdbc.testWhileIdle}"/>
+        </bean>
+
+        <!-- 数据源配置,使用应用服务器的数据库连接池 -->
+        <!--<jee:jndi-lookup id="dataSource" jndi-name="java:comp/env/jdbc/ExampleDB" />-->
+    </beans>
+
+    <!-- local development环境 -->
+    <beans profile="development">
+        <context:property-placeholder ignore-resource-not-found="true"
+                                      location="classpath*:/application.properties,
+          			  classpath*:/application.development.properties"/>
+
+        <!-- Tomcat JDBC连接池 -->
+        <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+            <property name="driverClassName" value="${jdbc.driverClassName}"/>
+            <property name="url" value="${jdbc.url}"/>
+            <property name="username" value="${jdbc.username}"/>
+            <property name="password" value="${jdbc.password}"/>
+            <property name="defaultAutoCommit" value="false"/>
+        </bean>
+    </beans>
+</beans>

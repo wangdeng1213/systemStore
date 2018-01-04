@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.peanut:peanut-data-jpa:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mavenRepository/com/peanut/peanut-data-jpa/1.0.0-SNAPSHOT/peanut-data-jpa-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../mavenRepository/com/peanut/peanut-data-jpa/1.0.0-SNAPSHOT/peanut-data-jpa-1.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/data-jpa/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../mavenRepository/com/peanut/peanut-data-jpa/1.0.0-SNAPSHOT/peanut-data-jpa-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

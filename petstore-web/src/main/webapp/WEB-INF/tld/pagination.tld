@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE taglib PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"
+                        "http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd">
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>1.2</jsp-version>
+	<short-name>pager</short-name>
+	<uri>http://www.peanut.com/pagination</uri>
+	<display-name>paginationTag</display-name>
+	<tag>
+		<name>legend</name>
+		<tag-class>com.peanut.pagination.pageTag.PaginationTag</tag-class>
+		<body-content>JSP</body-content>
+		<description>legend pagination style</description>
+		<attribute>
+			<name>bean</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>showPageNum</name>
+			<rtexprvalue>false</rtexprvalue>
+			<description>default show the number of page just like the 5 of "1 2
+				3 4 5 ... 9 10"</description>
+		</attribute>
+		<attribute>
+			<name>url</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>className</name>
+			<rtexprvalue>false</rtexprvalue>
+			<description>the className of pagination style</description>
+		</attribute>
+	</tag>
+</taglib>

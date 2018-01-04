@@ -1,0 +1,165 @@
+﻿<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:security="http://www.springframework.org/schema/security"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+          http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+          http://www.springframework.org/schema/security
+          http://www.springframework.org/schema/security/spring-security-3.2.xsd">
+
+	<!-- 对css、js、img资源不进行权限检查 -->
+	<security:http pattern="/css/**" security="none" />
+	<security:http pattern="/js/**" security="none" />
+	<security:http pattern="/img/**" security="none" />
+
+	<security:http auto-config="true" path-type="regex">
+		<security:intercept-url pattern="/login"
+			access="IS_AUTHENTICATED_ANONYMOUSLY" />
+		<security:form-login login-processing-url="/j_spring_security_check"
+			login-page="/login" default-target-url="/product/query"
+			authentication-failure-url="/login?errorCode=badCredentials" />
+		<security:remember-me data-source-ref="dataSource"
+			token-validity-seconds="604800" />
+		<security:session-management>
+			<!--			invalid-session-url="/login?errorCode=invalidSession">-->
+			<security:concurrency-control
+				session-registry-alias="sessionRegistry" max-sessions="1"
+				expired-url="/login?errorCode=concurrentSessionExpired" />
+		</security:session-management>
+		<security:logout invalidate-session="true" delete-cookies="JSESSIONID,activeMenu,activeBar" logout-url="/logout" logout-success-url="/login" />
+		<security:access-denied-handler
+			error-page="/auth/accessDenied" />
+		<security:custom-filter
+			ref="filterInvoctionSecurityMetadataSourceInterceptor" before="FILTER_SECURITY_INTERCEPTOR" />
+	</security:http>
+
+	<security:authentication-manager alias="authenticationManager">
+		<security:authentication-provider ref="daoAuthenticationProvider" />
+	</security:authentication-manager>
+
+	<bean id="daoAuthenticationProvider"
+		class="org.springframework.security.authentication.dao.DaoAuthenticationProvider">
+		<property name="userDetailsService" ref="peanutUserDetailService" />
+		<property name="hideUserNotFoundExceptions" value="false" />
+		<property name="passwordEncoder" ref="passwordEncoder" />
+		<property name="saltSource" ref="saltSource" />
+	</bean>
+
+	<bean id="peanutUserDetailService"
+		class="com.peanut.security.springSecurity.userDetailService.impl.PeanutUserDetailServiceImpl" />
+
+	<bean id="passwordEncoder"
+		class="org.springframework.security.authentication.encoding.Md5PasswordEncoder" />
+
+	<bean id="saltSource"
+		class="org.springframework.security.authentication.dao.ReflectionSaltSource">
+		<property name="userPropertyToUse" value="username" />
+	</bean>
+
+	<bean id="md5PasswordCheckedTokenKeyStrategy"
+		class="com.peanut.security.credentials.passwordCheckedTokenKeyStrategy.impl.MD5PasswordCheckedTokenKeyStrategy" />
+
+	<!-- 定义的对URL资源的权限检查拦截器 -->
+	<bean id="filterInvoctionSecurityMetadataSourceInterceptor"
+		class="com.peanut.security.springSecurity.interceptor.FilterInvoctionSecurityMetadataSourceInterceptor">
+		<property name="authenticationManager" ref="authenticationManager" />
+		<property name="accessDecisionManager" ref="accessDecisionManager" />
+		<property name="filterInvocationSecurityMetadataSource" ref="peanutFilterInvocationSecurityMetadataSource" />
+	</bean>
+
+    <bean id="peanutFilterInvocationSecurityMetadataSourceProvider" class="com.peanut.security.springSecurity.metadataSource.metadataSourceProvider.PeanutFilterInvocationSecurityMetadataSourceProvider"/>
+
+	<!-- URL资源的配置 -->
+	<bean id="peanutFilterInvocationSecurityMetadataSource"
+		class="com.peanut.security.springSecurity.metadataSource.PeanutFilterInvocationSecurityMetadataSource">
+        <property name="peanutFilterInvocationSecurityMetadataSourceProvider" ref="peanutFilterInvocationSecurityMetadataSourceProvider" />
+    </bean>
+
+	<!-- 权限访问表决器 -->
+	<bean id="accessDecisionManager"
+		class="org.springframework.security.access.vote.AffirmativeBased">
+		<property name="decisionVoters">
+			<list>
+				<bean class="org.springframework.security.access.vote.RoleVoter" />
+				<bean class="org.springframework.security.access.vote.AuthenticatedVoter" />
+			</list>
+		</property>
+	</bean>
+
+	<!-- 方法拦截器 -->
+	<bean id="methodSecurityInterceptor"
+		class="org.springframework.security.access.intercept.aopalliance.MethodSecurityInterceptor">
+		<property name="authenticationManager" ref="authenticationManager" />
+		<property name="accessDecisionManager" ref="accessDecisionManager" />
+		<property name="securityMetadataSource" ref="methodSecurityMetadataSource" />
+	</bean>
+
+	<!-- 使方法拦截器起作用的Advisor -->
+	<bean id="methodSecurityMetadataSourceAdvisor"
+		class="org.springframework.security.access.intercept.aopalliance.MethodSecurityMetadataSourceAdvisor">
+		<constructor-arg value="methodSecurityInterceptor" />
+		<constructor-arg ref="methodSecurityMetadataSource" />
+		<constructor-arg value="methodSecurityMetadataSource" />
+	</bean>
+
+	<!-- 方法拦截器拦截的资源配置 -->
+	<bean id="methodSecurityMetadataSource"
+		class="org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource">
+		<constructor-arg>
+			<list>
+				<ref local="peanutMethodInvocationSecurityMetadataSource" />
+				<ref local="prePostSecurityMetadataSource" />
+			</list>
+		</constructor-arg>
+	</bean>
+
+	<!-- 定义基于prepost注解的拦截方法 -->
+	<bean id="prePostSecurityMetadataSource"
+		class="org.springframework.security.access.prepost.PrePostAnnotationSecurityMetadataSource">
+		<constructor-arg ref="expressionBasedAnnotationAttributeFactory" />
+	</bean>
+
+	<bean id="expressionBasedPreInvocationAdvice"
+		class="org.springframework.security.access.expression.method.ExpressionBasedPreInvocationAdvice">
+		<property name="expressionHandler" ref="methodExpressionHandler" />
+	</bean>
+
+	<bean id="methodExpressionHandler"
+		class="org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler" />
+
+	<bean id="expressionBasedPostInvocationAdvice"
+		class="org.springframework.security.access.expression.method.ExpressionBasedPostInvocationAdvice">
+		<constructor-arg ref="methodExpressionHandler" />
+	</bean>
+
+	<bean id="expressionBasedAnnotationAttributeFactory"
+		class="org.springframework.security.access.expression.method.ExpressionBasedAnnotationAttributeFactory">
+		<constructor-arg ref="methodExpressionHandler" />
+	</bean>
+
+	<!-- urpMethodInvocationSecurityMetadataSource定义的基于数据库配置的拦截方法 -->
+	<bean id="peanutMethodInvocationSecurityMetadataSource"
+		class="com.peanut.security.springSecurity.metadataSource.PeanutMethodInvocationSecurityMetadataSource">
+		<constructor-arg ref="peanutMethodInvocationSecurityMetadataSourceProvider" />
+	</bean>
+
+	<!-- kaptcha验证码 -->
+	<bean id="kaptchaProducer" class="com.google.code.kaptcha.impl.DefaultKaptcha">
+		<property name="config">
+			<bean class="com.google.code.kaptcha.util.Config">
+				<constructor-arg>
+					<props>
+						<prop key="kaptcha.border">yes</prop>
+						<prop key="kaptcha.border.color">105,179,90</prop>
+						<prop key="kaptcha.textproducer.font.color">red</prop>
+						<prop key="kaptcha.image.width">180</prop>
+						<prop key="kaptcha.textproducer.font.size">40</prop>
+						<prop key="kaptcha.image.height">45</prop>
+						<prop key="kaptcha.session.key">code</prop>
+						<prop key="kaptcha.textproducer.char.length">4</prop>
+						<prop key="kaptcha.textproducer.font.names">宋体,楷体,微软雅黑</prop>
+					</props>
+				</constructor-arg>
+			</bean>
+		</property>
+	</bean>
+</beans>

@@ -1,0 +1,24 @@
+11:26:47.067,获取认证对象时出错!
+11:27:04.217,http://127.0.0.1:8080/user/useraccountrecord/query||GET||28||wang||/user/useraccountrecord/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@7c44d9b4
+11:27:04.226,public java.lang.String com.peanut.p2p.user.UserAccountRecordController.index(int,com.peanut.p2p.user.model.query.UserAccountRecordQueryObject,org.springframework.ui.Model)-------------------------
+11:27:06.856,http://127.0.0.1:8080/user/useraccountrecord/query||GET||28||wang||/user/useraccountrecord/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@32f8833d
+11:27:06.865,public java.lang.String com.peanut.p2p.user.UserAccountRecordController.index(int,com.peanut.p2p.user.model.query.UserAccountRecordQueryObject,org.springframework.ui.Model)-------------------------
+11:27:10.126,http://127.0.0.1:8080/bank/query||GET||28||wang||/bank/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:13.802,http://127.0.0.1:8080/repayment_plan/query||GET||28||wang||/repayment_plan/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:17.097,http://127.0.0.1:8080/contract/query||GET||28||wang||/contract/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:20.907,http://127.0.0.1:8080/borrowStat/query||GET||28||wang||/borrowStat/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:20.959,public java.lang.String com.peanut.p2p.products.BorrowStatController.index(int,com.peanut.p2p.products.model.query.BorrowStatQueryObject,org.springframework.ui.Model)-------------------------
+11:27:36.922,http://127.0.0.1:8080/admin/resource/file/query||GET||28||wang||/admin/resource/file/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:36.925,public java.lang.String com.peanut.p2p.security.realm.controller.PrivilegeController.filesIndex(int,com.peanut.security.realm.entity.queryObject.PrivilegeQueryObject,org.springframework.ui.Model)-------------------------
+11:27:38.578,http://127.0.0.1:8080/admin/resource/file/import||GET||28||wang||/admin/resource/file/import||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:38.579,public java.lang.String com.peanut.p2p.security.realm.controller.PrivilegeController.gotoImportFile()-------------------------
+11:27:49.420,http://127.0.0.1:8080/borrowTran/query||GET||28||wang||/borrowTran/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:52.436,http://127.0.0.1:8080/admin/resource/method/query||GET||28||wang||/admin/resource/method/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:52.441,public java.lang.String com.peanut.p2p.security.realm.controller.PrivilegeController.methodsIndex(int,com.peanut.security.realm.entity.queryObject.PrivilegeQueryObject,org.springframework.ui.Model)-------------------------
+11:27:55.674,http://127.0.0.1:8080/admin/resource/operation/query||GET||28||wang||/admin/resource/operation/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:55.678,public java.lang.String com.peanut.p2p.security.realm.controller.PrivilegeController.operationsIndex(int,com.peanut.security.realm.entity.queryObject.PrivilegeQueryObject,org.springframework.ui.Model)-------------------------
+11:27:58.176,http://127.0.0.1:8080/user/userrepayment/query||GET||28||wang||/user/userrepayment/query||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@3d0ad13e
+11:27:58.255,public java.lang.String com.peanut.p2p.user.UserRepaymentController.index(int,com.peanut.p2p.user.model.query.UserRepaymentQueryObject,org.springframework.ui.Model)-------------------------
+11:30:24.889,http://127.0.0.1:8080/user/userrepayment/add||GET||28||wang||/user/userrepayment/add||null||j1niuwyzyzpp1bvzl5doyedv0||127.0.0.1||[Ljavax.servlet.http.Cookie;@5c1df500
+11:30:24.895,public java.lang.String com.peanut.p2p.user.UserRepaymentController.gotoAdd(org.springframework.ui.Model)-------------------------
+11:40:50.686,获取认证对象时出错!
